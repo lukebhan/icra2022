@@ -1,0 +1,80 @@
+.uniStyle {
+  font-size:20px;
+}
+
+.confStyle {
+  padding-top: 15px;
+  font-size: 20;
+  color: #007FFF;
+}
+
+.links {
+  color: #007FFF;
+  text-decoration: none;
+  font-size: 20;
+}
+
+.nameStyle {
+  color: #007FFF;
+  font-size: 20px;
+  width: 75%;
+  display: table;
+  table-layout: fixed;
+  margin: 0 auto;
+}
+
+.nameStyle span {
+  display: table-cell;
+  text-align: center;
+}
+
+.confStyle {
+  padding-top: 20px;
+  color: #007FFF;
+  font-size: 20px;
+  width: 50%;
+  display: table;
+  table-layout: fixed;
+  margin: 0 auto;
+}
+
+.confStyle span {
+  display: table-cell;
+  text-align: center;
+}
+
+.confStyle a:hover {
+  color:  #00008b;
+}
+.vid {
+  padding-top: 20px;
+}
+
+.vid video {
+  width:67%;
+}
+
+.abs {
+  padding-top: 30px;
+  color: #007FFF;
+  font-size: 20px;
+  width: 100%;
+  display: table;
+  table-layout: fixed;
+  margin: 0 auto;
+}
+
+.arch {
+  width: 40%;
+}
+
+.absHeader {
+  text-align: left;
+  color: #36454F;
+}
+
+.absText {
+  width: 80%;
+  color: #36454F;
+  margin: 0 auto;
+}
